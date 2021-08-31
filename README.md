@@ -12,6 +12,8 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/mtkumar123/csc510_hw2b_g21) 
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/mtkumar123/csc510_hw2b_g21)
 
+This is a sample repo to understand the structure of a good repo!
+
 
 
 
