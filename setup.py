@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='hw2b',
-    version='0.1.0',
+    version='1.0.0',
     packages=find_packages(),
     license='none',
     description='Building a CI pipeline for hw 2b',
